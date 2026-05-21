@@ -1,0 +1,6 @@
+{
+  "name": "Tetris",
+  "description": "A fully functional Tetris game built with Jetpack Compose.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
