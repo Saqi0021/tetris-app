@@ -1,0 +1,18 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="120dp"
+    android:height="120dp"
+    android:viewportWidth="120"
+    android:viewportHeight="120">
+    <!-- J piece -->
+    <path
+        android:fillColor="#E91E63"
+        android:pathData="M 40,20 h 20 v 60 h -40 v -20 h 20 z" />
+    <!-- S piece -->
+    <path
+        android:fillColor="#4CAF50"
+        android:pathData="M 60,60 h 40 v 20 h -20 v 20 h -40 v -20 h 20 z" />
+    <!-- T piece -->
+    <path
+        android:fillColor="#D0BCFF"
+        android:pathData="M 20,80 h 60 v 20 h -20 v 20 h -20 v -20 h -20 z" />
+</vector>
